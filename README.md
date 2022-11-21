@@ -10,6 +10,16 @@
 
 ###
 
+<h2 align="center">📌 Pinned projects 📌</h2>
+
+<div align="center">
+  <a href = "https://github.com/Exilon24/TwitchFlashbang">
+    <img class="twitchFlashbang" src="https://user-images.githubusercontent.com/80382462/203070167-1fcae265-69b8-4f74-8584-41852044d265.png" width="300">
+  </a>
+</div>
+
+###
+
 <h2 align="center">📕 About me 📕</h2>
 
 ###
