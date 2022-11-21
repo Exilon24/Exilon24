@@ -1,5 +1,5 @@
+<img src="https://github.com/Exilon24/Exilon24/blob/main/Pre-comp-1000.gif">
 
-<h1 align="center">😎 Exilon 😎</h1>
 <div align="center">
   <img src = "https://visitor-badge.glitch.me/badge?page_id=exilon24.exilon24&left_color=black&right_color=red" width = 200>
 </div>
