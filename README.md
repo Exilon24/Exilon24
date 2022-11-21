@@ -53,11 +53,6 @@
 
 ###
 
-<h2 align="center">My activity</h2>
-<!--START_SECTION:activity-->
-
-###
-
 <h2 align="center">Snake :)</h2>
 
 ###
