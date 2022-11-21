@@ -1,5 +1,8 @@
 
 <h1 align="center">😎 Exilon 😎</h1>
+<div align="center">
+  <img src = "https://visitor-badge.glitch.me/badge?page_id=exilon24.exilon24&left_color=black&right_color=red" width = 200>
+</div>
 
 ###
 
@@ -7,19 +10,19 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="center">📕 About me 📕</h2>
 
 ###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Exilon24&count_private=true&theme=transparent&hide_title=true"/>
-</div>
-
+  
 <p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++ (help)<br>🎯 Goals: Money 💵💸💰<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
 
+  <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Exilon24&count_private=true&theme=onedark&hide_title=true"/>
+</div>
+  
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">⚙️ Technologies I use ⚙️</h2>
 
 ###
 
@@ -34,18 +37,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<h2 align="center">Profile & Activity</h2>
-
-###
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/Exilon24/Exilon24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Exilon24&theme=github" width="800"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" width="900"/>
 </div>
