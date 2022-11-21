@@ -12,19 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&custom_title=My stats :)&username=exilon24" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="Exilon#4475" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCSnVSvMS0aa5C52TnbfOeNA" target="_blank">
-    <img src="https://raw.githubusercontent.com/Exilon24/Exilon24/main/snake.yml" height="40" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
@@ -56,6 +44,6 @@
 <h2 align="center">Snake :)</h2>
 
 ###
-<div align "center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Exilon24/Exilon24/main/snake.svg" alt="Snake animation" />
 </div>
