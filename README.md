@@ -11,6 +11,10 @@
 
 ###
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Exilon24&count_private=true&theme=transparent&hide_title=true"/>
+</div>
+
 <p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++ (help)<br>🎯 Goals: Money 💵💸💰<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
 
 ###
@@ -29,6 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <h2 align="center">Profile & Activity</h2>
@@ -39,10 +47,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Exilon24&theme=github" width="800"/>
 </div>
-
