@@ -1,4 +1,8 @@
-<img src="https://github.com/Exilon24/Exilon24/blob/main/Pre-comp-1000.gif">
+<div align="center">
+  <img src="https://github.com/Exilon24/Exilon24/blob/main/exilon.gif" width = 600>
+</div>
+
+###
 
 <div align="center">
   <img src = "https://visitor-badge.glitch.me/badge?page_id=exilon24.exilon24&left_color=black&right_color=red" width = 200>
