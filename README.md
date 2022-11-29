@@ -59,7 +59,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Exilon24/Exilon24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=onedark" width="900"/>
-</div>
