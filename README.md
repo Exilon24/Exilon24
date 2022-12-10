@@ -57,8 +57,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
 </div>
 
-###
-  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Exilon24/Exilon24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
