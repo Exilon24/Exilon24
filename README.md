@@ -20,6 +20,9 @@
   <a href = "https://github.com/Exilon24/TwitchFlashbang">
     <img class="twitchFlashbang" src="https://user-images.githubusercontent.com/80382462/203070167-1fcae265-69b8-4f74-8584-41852044d265.png" width="300">
   </a>
+  <a href="https://github.com/Exilon24/SCPQueueSystem">
+  <img src="https://user-images.githubusercontent.com/80382462/206874917-226e2aad-8a6b-4731-afd6-3f8d6bc9cd23.png" width="320">
+  </a>
 </div>
 
 ###
