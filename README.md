@@ -32,10 +32,6 @@
 ###
   
 <p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++ (help)<br>🎯 Goals: Money 💵💸💰<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
-
-  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Exilon24&count_private=true&theme=onedark&hide_title=true"/>
-</div>
   
 ###
 
@@ -53,7 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&username=exilon24" height="150" alt="languages graph"  />
-</div>
 
