@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src = "https://visitor-badge.glitch.me/badge?page_id=exilon24.exilon24&left_color=black&right_color=red" width = 200>
-</div>
-
-###
-
 <p align="center">Hi! My name is Exilon, I'm a 16 year old programmer from Iran and I like to make software and games for fun. <br/>:)</p>
 
 ###
