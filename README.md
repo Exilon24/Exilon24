@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi! My name is Exilon, I'm a 16 year old programmer from Iran and I like to make software and games for fun. <br/>:)</p>
+<p align="center">Hi! I'm a 16 year old programmer and I like to make software and games for fun.
 
 ###
 
