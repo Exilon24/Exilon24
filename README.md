@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi! I'm a 16 year old programmer and I like to make software and games for fun.
+<p align="center">Hi! I'm a 17 year old programmer and I like to make software and games for fun.
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
   
-<p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++ (help)<br>🎯 Goals: Money 💵💸💰<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
+<p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++<br>🎯 Goals: Make it out of school<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
   
 ###
 
