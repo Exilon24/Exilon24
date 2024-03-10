@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Hi! I'm a 17 year old programmer and I like to make software and games for fun.
+<p align="center">Hi! I'm a 17 year old programmer and I like to make software and games.
 
 ###
 
