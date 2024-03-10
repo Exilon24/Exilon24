@@ -22,7 +22,7 @@
 
 ###
   
-<p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++<br>🎯 Goals: Make it out of school<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
+<p align="center">⏱Programming since 2015<br>📚 I'm currently learning C++<br>🎯 Goals: Finish A-Level computer science<br>🎲 Fun fact: The first language I tried to learn was Lua. My favourite language is C#</p>
   
 ###
 
